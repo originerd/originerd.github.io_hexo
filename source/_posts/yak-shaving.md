@@ -1,7 +1,7 @@
 ---
-title: Yark Shaving
+title: Yak Shaving
 tags:
-  - Yark shaving
+  - Yak shaving
   - 야크 쉐이빙
   - 일기장
   - 일기
