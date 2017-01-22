@@ -77,3 +77,12 @@ archive_generator:
 deploy:
   type: git
   repo: git@github.com:originerd/originerd.github.io.git
+
+# Feed
+## https://github.com/hexojs/hexo-generator-feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
