@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nerdy Log</title>
+  <subtitle>You call it procrastination, I call it thinking.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://originerd.github.io/"/>
+  <updated>2017-01-23T15:39:39.000Z</updated>
+  <id>https://originerd.github.io/</id>
+  
+  <author>
+    <name>Originerd</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>헥소 설정기</title>
+    <link href="https://originerd.github.io/2017/01/21/how-i-set-hexo/"/>
+    <id>https://originerd.github.io/2017/01/21/how-i-set-hexo/</id>
+    <published>2017-01-21T12:42:14.000Z</published>
+    <updated>2017-01-23T15:39:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;/at-beginning-of-2017/&quot;&gt;2017년을 맞으며&lt;/a&gt;를 쓰며 정리했던 목표 중 하나인 글쓰기를 하기 위해 분위기를 전환할 겸 블로그를 세팅하기로 했다. 마치 시험기간에 안 하던 집 청소를 하는 느낌이지만, 뭐 어때
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://originerd.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://originerd.github.io/tags/github/"/>
+    
+      <category term="pages" scheme="https://originerd.github.io/tags/pages/"/>
+    
+      <category term="헥소" scheme="https://originerd.github.io/tags/%ED%97%A5%EC%86%8C/"/>
+    
+      <category term="깃헙" scheme="https://originerd.github.io/tags/%EA%B9%83%ED%97%99/"/>
+    
+      <category term="페이지" scheme="https://originerd.github.io/tags/%ED%8E%98%EC%9D%B4%EC%A7%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017년을 맞으며</title>
+    <link href="https://originerd.github.io/2017/01/01/at-beginning-of-2017/"/>
+    <id>https://originerd.github.io/2017/01/01/at-beginning-of-2017/</id>
+    <published>2016-12-31T16:37:53.000Z</published>
+    <updated>2017-01-20T16:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;다사다난했던 한 해가 지나갔다. 매년 하는 말이지만, 이번에 말한 다사다난은 일반적인 것이 아니라, 역대급이었던 것 같다. 그런데도 잘 버텨준 우리 모두 Cheers.&lt;/p&gt;
+&lt;p&gt;작년(&lt;a href=&quot;/2016/01/01/1st-day-of-2
+    
+    </summary>
+    
+    
+      <category term="2017년" scheme="https://originerd.github.io/tags/2017%EB%85%84/"/>
+    
+      <category term="새 해" scheme="https://originerd.github.io/tags/%EC%83%88-%ED%95%B4/"/>
+    
+      <category term="개발자" scheme="https://originerd.github.io/tags/%EA%B0%9C%EB%B0%9C%EC%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Yak Shaving</title>
+    <link href="https://originerd.github.io/2016/08/08/yak-shaving/"/>
+    <id>https://originerd.github.io/2016/08/08/yak-shaving/</id>
+    <published>2016-08-07T15:43:24.000Z</published>
+    <updated>2017-01-23T15:39:39.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;갑자기 다시 일기를 쓰고 싶어졌다. 내가 원하는 기능은 약간 트위터와 텀블러 사이 어딘가 쯤이지만 텀블러와는 또 다른 기능들이 필요하다.&lt;/p&gt;
+&lt;p&gt;생각나는 기능들을 정리해보자면,&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;가장 우선적으로 일기를 간단하게 쓸 수 
+    
+    </summary>
+    
+    
+      <category term="Yak shaving" scheme="https://originerd.github.io/tags/Yak-shaving/"/>
+    
+      <category term="야크 쉐이빙" scheme="https://originerd.github.io/tags/%EC%95%BC%ED%81%AC-%EC%89%90%EC%9D%B4%EB%B9%99/"/>
+    
+      <category term="일기장" scheme="https://originerd.github.io/tags/%EC%9D%BC%EA%B8%B0%EC%9E%A5/"/>
+    
+      <category term="일기" scheme="https://originerd.github.io/tags/%EC%9D%BC%EA%B8%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2016년 첫 날</title>
+    <link href="https://originerd.github.io/2016/01/01/1st-day-of-2016/"/>
+    <id>https://originerd.github.io/2016/01/01/1st-day-of-2016/</id>
+    <published>2016-01-01T01:27:10.000Z</published>
+    <updated>2017-01-20T16:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;지난 한 해의 가장 큰 목표는 취업이었다. 두 번의 인턴을 하였고, 몇 차례의 면접을 보았다. 합격한 곳과 탈락한 곳이 있고, 결국 원하는 회사에 새해 첫 평일인 4일에 입사하게 되었다.&lt;/p&gt;
+&lt;p&gt;작년에는 취직이 목표였다면, 올해는 깊이있는 
+    
+    </summary>
+    
+    
+      <category term="2016년" scheme="https://originerd.github.io/tags/2016%EB%85%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>분위기 전환의 필요성</title>
+    <link href="https://originerd.github.io/2015/12/09/i-need-refresh/"/>
+    <id>https://originerd.github.io/2015/12/09/i-need-refresh/</id>
+    <published>2015-12-08T17:32:18.000Z</published>
+    <updated>2017-01-20T16:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;이전 글에도 적었드시, 현재 정규직 합격 여부를 기다리는 중인데, 일도 손에 안잡히고 그냥 게임만하며 시간을 보내며 하루하루를 무의미하게 보내고 있다.&lt;/p&gt;
+&lt;p&gt;길어야 앞으로 사흘정도겠지만, 이제 좀 분위기를 바꿀 필요성을 느꼈다. 더이상 무
+    
+    </summary>
+    
+    
+      <category term="분위기_전환의_필요성" scheme="https://originerd.github.io/tags/%EB%B6%84%EC%9C%84%EA%B8%B0-%EC%A0%84%ED%99%98%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2015년이 다 지나갈 즈음에...</title>
+    <link href="https://originerd.github.io/2015/11/29/at-the-end-of-2015/"/>
+    <id>https://originerd.github.io/2015/11/29/at-the-end-of-2015/</id>
+    <published>2015-11-28T15:46:34.000Z</published>
+    <updated>2017-01-20T16:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;블로그를 개설 한 작년 초에 &lt;a href=&quot;/2014/02/06/2014-goal-and-plan/&quot;&gt;2014년 목표 그리고 계획&lt;/a&gt; 글을 적고 정신없이 살다보니 어느새 2015년도 다 지나갔다.&lt;/p&gt;
+&lt;p&gt;잠시나마 그때의 목표와 계획에 
+    
+    </summary>
+    
+    
+      <category term="2015년" scheme="https://originerd.github.io/tags/2015%EB%85%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2014 목표 그리고 계획</title>
+    <link href="https://originerd.github.io/2014/02/06/2014-goal-and-plan/"/>
+    <id>https://originerd.github.io/2014/02/06/2014-goal-and-plan/</id>
+    <published>2014-02-05T15:42:00.000Z</published>
+    <updated>2017-01-20T16:26:12.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;작년에 다양한 일들을 경험하였고, 새로운 일들도 많이 도전했던 시기였다. 덕분에 얻은 것도 많고, 많은 사람을 만났다. 아쉬웠던 것들도 많지만, 그마저도 어느 정도 근접했기 때문에 느끼는 감정이지 않을까 한다.&lt;/p&gt;
+&lt;p&gt;2014년이 된 지 벌
+    
+    </summary>
+    
+    
+      <category term="2014 목표 그리고 계획" scheme="https://originerd.github.io/tags/2014-%EB%AA%A9%ED%91%9C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B3%84%ED%9A%8D/"/>
+    
+  </entry>
+  
+</feed>
