@@ -86,3 +86,8 @@ feed:
   limit: 20
   hub:
   content:
+
+# Sitemap
+## https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap
+sitemap:
+  path: sitemap.xml
