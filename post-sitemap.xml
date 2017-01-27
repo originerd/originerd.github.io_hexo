@@ -15,14 +15,6 @@
     </url>
 
     <url>
-        <loc>https://originerd.github.io/2016/08/08/yak-shaving/</loc>
-        <lastmod>2017-01-23T15:39:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://originerd.github.io/2017/01/21/how-i-set-hexo/</loc>
         <lastmod>2017-01-23T15:39:39.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,8 +23,8 @@
     </url>
 
     <url>
-        <loc>https://originerd.github.io/2016/01/01/1st-day-of-2016/</loc>
-        <lastmod>2017-01-20T16:26:12.000Z</lastmod>
+        <loc>https://originerd.github.io/2016/08/08/yak-shaving/</loc>
+        <lastmod>2017-01-23T15:39:39.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -40,6 +32,14 @@
 
     <url>
         <loc>https://originerd.github.io/2014/02/06/2014-goal-and-plan/</loc>
+        <lastmod>2017-01-20T16:26:12.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://originerd.github.io/2016/01/01/1st-day-of-2016/</loc>
         <lastmod>2017-01-20T16:26:12.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
