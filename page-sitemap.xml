@@ -7,7 +7,14 @@
     </url>
     
     <url>
-        <loc>https://originerd.github.io/books/</loc>
+        <loc>https://originerd.github.io/cultural-life/</loc>
+        <lastmod>2017-01-27T15:36:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://originerd.github.io/book/</loc>
         <lastmod>2017-01-23T16:32:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -15,13 +22,6 @@
     
     <url>
         <loc>https://originerd.github.io/about/</loc>
-        <lastmod>2017-01-23T15:39:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://originerd.github.io/movies/</loc>
         <lastmod>2017-01-23T15:39:39.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
