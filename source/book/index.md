@@ -16,4 +16,6 @@ date: 2017-01-21 20:18:58
 
 - 기술서적
   - [집단지성 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=4527570) (2017-01-24)
+  - [자바스크립트 완벽 가이드](http://book.naver.com/bookdb/book_detail.nhn?bid=4561033) (2017-01-29)
 - 비기술서적
+  - [사피엔스](http://book.naver.com/bookdb/book_detail.nhn?bid=9780781) (2017-01-29)
