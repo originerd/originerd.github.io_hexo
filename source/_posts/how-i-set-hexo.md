@@ -21,13 +21,13 @@ Github Pages는 지킬([Jekyll](https://jekyllrb.com/))이 대표적으로 사�
 *Node.js 패키지 매니저([npm](https://www.npmjs.com/)/[yarn](https://yarnpkg.com/))는 설치되어 있다고 가정하고 진행합니다.*
 
 1. 헥소 커맨드 라인 인터페이스 설치
-```sh
+```bash
 npm i hexo-cli -g # for npm
 yarn global add hexo-cli # for yarn
 ```
 
 1. 블로그 생성 및 패키지 설치
-```sh
+```bash
 hexo init <blog>
 cd <blog>
 npm i # for npm
@@ -37,7 +37,7 @@ yarn # for yarn
   - `hexo init`까지만 입력 시 현재 디렉토리에 블로그 파일들이 생성된다.
 
 1. 헥소 실행해보기
-```sh
+```bash
 hexo server
 ```
   - 헥소는 기본적으로 4000번 포트로 실행된다. 따라서 http://localhost:4000 로 접근할 수 있다. 커맨드 실행 시 `-o` 옵션을 사용하면, 서버를 실행하고 자동으로 브라우저로 연결시켜준다.
@@ -48,7 +48,7 @@ hexo server
   - 더 자세한 내용은 [여기](https://hexo.io/ko/docs/configuration.html)를 참고
 
 1. 글 작성
-```sh
+```bash
 hexo new <title>
 ```
   - `<title>` 위치에 원하는 제목을 입력한다.
@@ -63,7 +63,7 @@ hexo new <title>
 1. 배포하기 (Github Pages)
   1. Github에 `계정명.github.io`로 repository를 생성한다.
   1. Git에 배포하기 위해 패키지를 설치한다.
-```sh
+```bash
 npm i --save hexo-deployer-git
 ```
   1. `./_config.yml`의 `deploy`를 설정한다.
@@ -77,7 +77,7 @@ deploy:
     - `<repository url>`에 1번에서 생성한 Github repository 주소를 입력한다.
     - `[branch]` 및 `[message]`를 설정하지 않으면 기본적으로 알아서 판단해서 설정이 된다. 혹은 원하는 설정을 입력하면 된다.
   1. 배포하자!
-```sh
+```bash
 hexo deploy -g
 ```
     - 정적 파일을 생성 후 Github repository에 배포를 한다. `-g` 옵션이 정적 파일 생성하는 옵션이다.
