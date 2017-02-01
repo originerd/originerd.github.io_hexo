@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://originerd.github.io/"/>
-  <updated>2017-01-23T15:39:39.000Z</updated>
+  <updated>2017-02-01T16:15:09.000Z</updated>
   <id>https://originerd.github.io/</id>
   
   <author>
@@ -16,11 +16,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Currying in JavaScript</title>
+    <link href="https://originerd.github.io/2017/01/29/currying-in-javascript/"/>
+    <id>https://originerd.github.io/2017/01/29/currying-in-javascript/</id>
+    <published>2017-01-29T11:38:26.000Z</published>
+    <updated>2017-02-01T16:15:09.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;얼마 전 &lt;a href=&quot;https://github.com/kishorsharma/currying-workshopper&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Curring in JavaScript&lt;/a&gt;를 알게 되었다. &lt;a 
+    
+    </summary>
+    
+    
+      <category term="Currying" scheme="https://originerd.github.io/tags/Currying/"/>
+    
+      <category term="JavaScript" scheme="https://originerd.github.io/tags/JavaScript/"/>
+    
+      <category term="커링" scheme="https://originerd.github.io/tags/%EC%BB%A4%EB%A7%81/"/>
+    
+      <category term="자바스크립트" scheme="https://originerd.github.io/tags/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>헥소 설정기</title>
     <link href="https://originerd.github.io/2017/01/21/how-i-set-hexo/"/>
     <id>https://originerd.github.io/2017/01/21/how-i-set-hexo/</id>
     <published>2017-01-21T12:42:14.000Z</published>
-    <updated>2017-01-23T15:39:39.000Z</updated>
+    <updated>2017-02-01T16:15:09.000Z</updated>
     
     <summary type="html">
     
