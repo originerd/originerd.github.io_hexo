@@ -1,3 +1,6 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/originerd/hexo-theme-Anatole.git
+[submodule "themes/cactus-dark"]
+	path = themes/cactus-dark
+	url = git@github.com:originerd/cactus-dark.git
