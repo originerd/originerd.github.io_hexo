@@ -14,7 +14,7 @@ Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 �
 <meta property="og:site_name" content="Nerdy Log">
 <meta property="og:description" content="2017년을 맞으며를 쓰며 정리했던 목표 중 하나인 글쓰기를 하기 위해 분위기를 전환할 겸 블로그를 세팅하기로 했다. 마치 시험기간에 안 하던 집 청소를 하는 느낌이지만, 뭐 어때? :)
 Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 번 회사 블로그를 세팅할 때 설정해봤다. 또한, 루비를 좋아하기 때문에 좋은 선택이었을 수">
-<meta property="og:updated_time" content="2017-02-01T16:15:09.000Z">
+<meta property="og:updated_time" content="2017-02-01T16:24:24.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="헥소 설정기">
 <meta name="twitter:description" content="2017년을 맞으며를 쓰며 정리했던 목표 중 하나인 글쓰기를 하기 위해 분위기를 전환할 겸 블로그를 세팅하기로 했다. 마치 시험기간에 안 하던 집 청소를 하는 느낌이지만, 뭐 어때? :)
@@ -111,7 +111,7 @@ Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 �
 
     </div>
     <div id="toc">
-      <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#헥소-설정하기"><span class="toc-number">1.</span> <span class="toc-text">헥소 설정하기</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#반드시-알-필요는-없는-노하우"><span class="toc-number">2.</span> <span class="toc-text">(반드시 알 필요는 없는) 노하우</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#헥소-설정하기"><span class="toc-number">1.</span> <span class="toc-text">헥소 설정하기</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#반드시-알-필요는-없는-노하우"><span class="toc-number">2.</span> <span class="toc-text">(반드시 알 필요는 없는) 노하우</span></a></li></ol>
     </div>
   </span>
 </div>
@@ -153,7 +153,7 @@ Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 �
     <p><a href="/at-beginning-of-2017/">2017년을 맞으며</a>를 쓰며 정리했던 목표 중 하나인 글쓰기를 하기 위해 분위기를 전환할 겸 블로그를 세팅하기로 했다. 마치 시험기간에 안 하던 집 청소를 하는 느낌이지만, 뭐 어때? :)</p>
 <p>Github Pages는 지킬(<a href="https://jekyllrb.com/" target="_blank" rel="external">Jekyll</a>)이 대표적으로 사용된다. 작년에 한 번 회사 블로그를 세팅할 때 설정해봤다. 또한, 루비를 좋아하기 때문에 좋은 선택이었을 수 있다. 그런데 지킬은 이미 레거시라는 이야기를 들었고(귀가 얇진 않은데…), 헥소(<a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>)가 그 다음 후보였다. 헥소는 Node.js로 구동되는데, 최근에는 루비보다 자바스크립트를 많이 쓰게 돼서, 오히려 루비보다 자바스크립트가 편하게 느껴진다. 따라서 헥소로 결정!</p>
 <p>헥소를 설정하는 게 정말 어렵지 않은데, 제대로 설정하려고 하다보니 시행착오를 많이 겪었다. 글로 남겨두면 헥소로 블로그를 세팅하실 분들에게 조금이나마 도움이 되지 않을까하여 글을 쓴다. 설정을 해두니 헥소의 장점들이 많이 보인다. 추천!</p>
-<h4 id="헥소-설정하기"><a href="#헥소-설정하기" class="headerlink" title="헥소 설정하기"></a>헥소 설정하기</h4><p><em>Node.js 패키지 매니저(<a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>/<a href="https://yarnpkg.com/" target="_blank" rel="external">yarn</a>)는 설치되어 있다고 가정하고 진행합니다.</em></p>
+<h2 id="헥소-설정하기"><a href="#헥소-설정하기" class="headerlink" title="헥소 설정하기"></a>헥소 설정하기</h2><p><em>Node.js 패키지 매니저(<a href="https://www.npmjs.com/" target="_blank" rel="external">npm</a>/<a href="https://yarnpkg.com/" target="_blank" rel="external">yarn</a>)는 설치되어 있다고 가정하고 진행합니다.</em></p>
 <ol>
 <li><p>헥소 커맨드 라인 인터페이스 설치</p>
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">npm i hexo-cli -g <span class="comment"># for npm</span></div><div class="line">yarn global add hexo-cli <span class="comment"># for yarn</span></div></pre></td></tr></table></figure>
@@ -220,7 +220,7 @@ Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 �
 </ol>
 <p>이로써 설치 및 글 작성, 배포를 할 수 있다. 쉽다! 보다 자세한 설명은 <a href="https://hexo.io/ko/" target="_blank" rel="external">공식 사이트</a>를 참고하면 좋다. 심지어 한글 문서도 잘 되어 있으니, 누구든 쉽게 접할 수 있을 것 같다.</p>
 <p>하지만, 아직 시행착오를 겪으며 생긴 노하우를 전하지 않았다.</p>
-<h4 id="반드시-알-필요는-없는-노하우"><a href="#반드시-알-필요는-없는-노하우" class="headerlink" title="(반드시 알 필요는 없는) 노하우"></a>(반드시 알 필요는 없는) 노하우</h4><p>위의 과정을 다 따라했으면, 어떻게 배포가 이루어지는지 알 것이다. 정적 파일을 생성해 Github Pages에 배포를 하게 된다. 그러나, 정적 파일을 제외한 부분은 관리를 하기 어렵다. 이에 대한 (거창한 표현인 것 같지만)노하우가 있다.</p>
+<h2 id="반드시-알-필요는-없는-노하우"><a href="#반드시-알-필요는-없는-노하우" class="headerlink" title="(반드시 알 필요는 없는) 노하우"></a>(반드시 알 필요는 없는) 노하우</h2><p>위의 과정을 다 따라했으면, 어떻게 배포가 이루어지는지 알 것이다. 정적 파일을 생성해 Github Pages에 배포를 하게 된다. 그러나, 정적 파일을 제외한 부분은 관리를 하기 어렵다. 이에 대한 (거창한 표현인 것 같지만)노하우가 있다.</p>
 <ol>
 <li>Git 브랜치를 master 외의 다른 브랜치로 옮긴다.</li>
 <li>Github repository로 push한다.</li>
@@ -265,7 +265,7 @@ Github Pages는 지킬(Jekyll)이 대표적으로 사용된다. 작년에 한 �
     </div>
 
     <div id="toc-footer" style="display: none">
-      <ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#헥소-설정하기"><span class="toc-number">1.</span> <span class="toc-text">헥소 설정하기</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#반드시-알-필요는-없는-노하우"><span class="toc-number">2.</span> <span class="toc-text">(반드시 알 필요는 없는) 노하우</span></a></li></ol>
+      <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#헥소-설정하기"><span class="toc-number">1.</span> <span class="toc-text">헥소 설정하기</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#반드시-알-필요는-없는-노하우"><span class="toc-number">2.</span> <span class="toc-text">(반드시 알 필요는 없는) 노하우</span></a></li></ol>
     </div>
 
     <div id="share-footer" style="display: none">
