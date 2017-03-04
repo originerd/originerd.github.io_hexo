@@ -19,7 +19,7 @@ Huiseoul에서는 매주 금요일에 `Geektalk`을 한다. `Geektalk`은 사내
 
 그렇게 시작된 프로젝트다. 이름은 기존처럼 `5ns`를 할까 하다가, `Surf5`라는 이름을 붙였다. ‘`S`hare yo`ur` `f`eeling in `5` characters’ 라는 약간의 억지라고 할 수 있는 약자를 따서 만들었다. 시작이 반이다.
 
-다시 발표 주제로 넘어가서, `Hipstack`에 대해 설명하자면, `Hipster`와 `Stack`의 합성어로, 선정한 기술들이 나름 힙해보여서 내 맘대로 붙이게 됐다. 실제로 [HipStack.me](http://hipstack.me)라는 서비스도 있다. 아무튼... 선정한 기술들은 [React Native](), [Redux](), [React Navigation](), [Firebase]()가 있다.
+다시 발표 주제로 넘어가서, `Hipstack`에 대해 설명하자면, `Hipster`와 `Stack`의 합성어로, 선정한 기술들이 나름 힙해보여서 내 맘대로 붙이게 됐다. 실제로 [HipStack.me](http://hipstack.me)라는 서비스도 있다. 아무튼... 선정한 기술들은 [React Native](https://facebook.github.io/react-native/), [Redux](http://redux.js.org), [React Navigation](https://reactnavigation.org), [Firebase](https://firebase.google.com/)가 있다.
 
 각각의 기술들을 선택한 이유는 다음과 같다.
 
