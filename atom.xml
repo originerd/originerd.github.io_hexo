@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://originerd.github.io/"/>
-  <updated>2017-02-01T16:15:09.000Z</updated>
+  <updated>2017-03-04T04:14:56.000Z</updated>
   <id>https://originerd.github.io/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>developing-sns-app-with-hipstack</title>
+    <link href="https://originerd.github.io/2017/03/04/developing-sns-app-with-hipstack/"/>
+    <id>https://originerd.github.io/2017/03/04/developing-sns-app-with-hipstack/</id>
+    <published>2017-03-04T03:02:47.000Z</published>
+    <updated>2017-03-04T04:14:56.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Huiseoul에서는 매주 금요일에 &lt;code&gt;Geektalk&lt;/code&gt;을 한다. &lt;code&gt;Geektalk&lt;/code&gt;은 사내 세미나로, 구체적인 주제는 없지만 기술 위주로 진행한다. 몇 달 전부터 온오프믹스를 이용해 외부 참여자도 받고 있으
+    
+    </summary>
+    
+    
+      <category term="Hipstack" scheme="https://originerd.github.io/tags/Hipstack/"/>
+    
+      <category term="SNS" scheme="https://originerd.github.io/tags/SNS/"/>
+    
+      <category term="React Navtive" scheme="https://originerd.github.io/tags/React-Navtive/"/>
+    
+      <category term="Redux" scheme="https://originerd.github.io/tags/Redux/"/>
+    
+      <category term="React Navigation" scheme="https://originerd.github.io/tags/React-Navigation/"/>
+    
+      <category term="Firebase" scheme="https://originerd.github.io/tags/Firebase/"/>
+    
+      <category term="Prezi" scheme="https://originerd.github.io/tags/Prezi/"/>
+    
+  </entry>
   
   <entry>
     <title>Currying in JavaScript</title>
