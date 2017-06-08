@@ -1,6 +1,6 @@
 ---
 title: Book
-date: 2017-02-09 01:20:58
+date: 2017-06-08 22:20:58
 ---
 
 *since 2017*
@@ -18,6 +18,14 @@ date: 2017-02-09 01:20:58
 ## Reading
 
 - 기술서적
-  - [집단지성 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=4527570) (2017-01-24)
+  - ~~[집단지성 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=4527570) (2017-01-24)~~
+  - [클린 코드](http://book.naver.com/bookdb/book_detail.nhn?bid=7390287) (2017-06-08)
 - 비기술서적
   - [사피엔스](http://book.naver.com/bookdb/book_detail.nhn?bid=9780781) (2017-01-29)
+
+## Will read
+
+- 기술서적
+  - [실용주의 사고와 학습](http://book.naver.com/bookdb/book_detail.nhn?bid=9720757)
+- 비기술서적
+  - [보노보노처럼 살다니 다행이야](http://book.naver.com/bookdb/book_detail.nhn?bid=11837875)
