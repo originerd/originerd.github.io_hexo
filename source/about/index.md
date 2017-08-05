@@ -1,11 +1,11 @@
 ---
 title: About
-date: 2017-01-21 17:19:17
+date: 2017-08-05 21:25:15
 ---
 
 **Jitae Kim** *a.k.a. Originerd*
 
-Software Engineer at [Huiseoul](http://www.huiseoul.com) in [Trillionaire Inc.](http://www.trillionaire.co.kr)
+Software Engineer at [Revisolution](http://revisolution.com)
 
 - Contact
   - [Github](https://github.com/originerd)
