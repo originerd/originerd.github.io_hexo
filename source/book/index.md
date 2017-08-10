@@ -1,6 +1,6 @@
 ---
 title: Book
-date: 2017-08-05 21:42:25
+date: 2017-08-10 22:37:23
 ---
 
 *since 2017*
@@ -23,6 +23,7 @@ date: 2017-08-05 21:42:25
 - 기술서적
   - ~~[집단지성 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=4527570) (2017-01-24)~~
   - [실용주의 사고와 학습](http://book.naver.com/bookdb/book_detail.nhn?bid=9720757)
+  - [Type-Driven Development with Idris](https://www.manning.com/books/type-driven-development-with-idris)
 - 비기술서적
   - [사피엔스](http://book.naver.com/bookdb/book_detail.nhn?bid=9780781) (2017-01-29)
 
